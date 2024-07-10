@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="150" src="https://images.squarespace-cdn.com/content/v1/61f30f2d94a2222a9c7f5389/55159d08-fa9a-405d-82df-af110a8f95ba/0_KNC2_rgMbG1WVzsm.gif?format=2500w"  />
+  [<img height="150" src="https://images.squarespace-cdn.com/content/v1/61f30f2d94a2222a9c7f5389/55159d08-fa9a-405d-82df-af110a8f95ba/0_KNC2_rgMbG1WVzsm.gif?format=2500w"  />](https://gifdb.com/images/high/hacker-egghead-coding-lj7znezbwb0nuba4.gif)
 </div>
 
 ###
