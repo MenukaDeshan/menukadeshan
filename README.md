@@ -16,7 +16,10 @@
 <h1 align="center">hey there 👋, I'm Menuka Deshan</h1>
 
 ###
+<!-- works only if the Markdown engine allows raw HTML -->
+<img src="https://tryhackme-badges.s3.amazonaws.com/d3sh4n.png" alt="Your Image Badge" />
 
+###
 <h3 align="left">👩‍💻  About Me</h3>
 
 ###
