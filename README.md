@@ -24,7 +24,7 @@
 
 ###
 
-<p align="left">I'm ... from ....Sri Lanka<br><br>- 🔭 I’m working as  a Student<br>- 📚 I'm currently learning MERN<br>- ⚡ In my free time I Code</p>
+<p align="left">I'm ... from ....Sri Lanka<br><br>- 🔭 I’m working as  a Student<br>- 📚 I'm currently learning Ethical Hacking<br>- ⚡ In my free time I Code</p>
 
 ###
 
